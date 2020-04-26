@@ -12,6 +12,6 @@ import XCTest
 class test2Tests: XCTestCase {
     
     func test_travisCIBuild() {
-        XCTAssert(2 == 2)
+        XCTAssert(4 == 4)
     }
 }
